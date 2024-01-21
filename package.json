@@ -1,0 +1,10 @@
+{
+  "name": "let-it-crash",
+  "version": "1.0.0",
+  "author": "Levi Eber",
+  "license": "ISC",
+  "engines": {
+    "node": "v20.11.0"
+  },
+  "type": "module"
+}
